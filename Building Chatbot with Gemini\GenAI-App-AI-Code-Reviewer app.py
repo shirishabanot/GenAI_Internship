@@ -25,3 +25,33 @@ if st.button("Generate"):
         st.subheader("Code Review")
         st.write("Bug Report:")
         st.write(response.text)  # Display AI response
+
+
+
+
+# cd
+# PS F:\My Documents\siri> python -m venv .env_jupyter
+# >> 
+# PS F:\My Documents\siri> 
+# PS F:\My Documents\siri> .\.env_jupyter\Scripts\activate.bat
+# >> 
+# PS F:\My Documents\siri> .\.env_jupyter\Scripts\Activate.ps1
+#     (.env_jupyter) PS F:\My Documents\siri> .\.env_jupyter\Scripts\Activate.ps1
+# >>
+# (.env_jupyter) PS F:\My Documents\siri> Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+# >>
+# (.env_jupyter) PS F:\My Documents\siri> .\.env_jupyter\Scripts\Activate.ps1
+# >>
+# (.env_jupyter) PS F:\My Documents\siri> .\.env_jupyter\Scripts\activate.bat
+# >>
+# (.env_jupyter) PS F:\My Documents\siri> cd "Building Chatbot with Gemini\GenAI-App-AI-Code-Reviewer"
+# >>
+# (.env_jupyter) PS F:\My Documents\siri\Building Chatbot with Gemini\GenAI-App-AI-Code-Reviewer> streamlit run app.py
+
+#   You can now view your Streamlit app in your browser.
+
+#   Local URL: http://localhost:8501
+#   Network URL: http://192.168.1.5:8501
+
+
+
