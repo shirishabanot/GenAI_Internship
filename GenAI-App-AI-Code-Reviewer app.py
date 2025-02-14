@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure the Google Generative AI API
-genai.configure(api_key="AIzaSyBq7czKCO8KjjOFrmvDOd8qbIt-CZwYDHk")  # Replace with your actual API key
+genai.configure(api_key="PATH")  # Replace with your actual API key
 
 # Set up the app layout
 st.title("An AI Code Reviewer")
@@ -52,6 +52,8 @@ if st.button("Generate"):
 
 #   Local URL: http://localhost:8501
 #   Network URL: http://192.168.1.5:8501
+APIKEY___PATH__AIzaSyBq7czKCO8KjjOFrmvDOd8qbIt-CZwYDHk
+
 
 
 
